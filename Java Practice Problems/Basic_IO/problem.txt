@@ -1,0 +1,22 @@
+Hello World Program
+Reading and Printing User Input
+Simple Calculator
+Convert Celsius to Fahrenheit
+Convert Fahrenheit to Celsius
+Sum of Two Numbers
+Difference of Two Numbers
+Product of Two Numbers
+Quotient and Remainder of Two Numbers
+Swap Two Numbers
+Calculate Area of Circle
+Calculate Area of Rectangle
+Calculate Area of Triangle
+Convert Kilometers to Miles
+Convert Pounds to Kilograms
+Calculate Body Mass Index (BMI)
+Calculate Compound Interest
+Calculate Simple Interest
+Check Divisibility by 5 and 11
+Check If Number is Perfect Square
+
+BASIC INPUT AND OUTPUT
